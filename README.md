@@ -7,3 +7,4 @@ Taskmate is a simple Django-based web application that helps manage tasks for ki
  
 1. Clone the Repository
 Start by cloning the repository to your local machine:
+git clone https://github.com/yourusername/repository-name.git
