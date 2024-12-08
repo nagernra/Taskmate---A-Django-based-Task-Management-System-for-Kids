@@ -5,7 +5,7 @@ Taskmate is a simple Django-based web application that helps manage tasks for ki
 
 # Steps to Set Up and Run the Project 
  
-#1. Clone the Repository
+# 1. Clone the Repository
 Start by cloning the repository to your local machine:
 
 git clone https://github.com/yourusername/repository-name.git
@@ -33,17 +33,18 @@ By default, the server will run on http://127.0.0.1:8000/.
 # 5. Register and Log In
 Visit the registration page and register a new kid.
 Log in with the registered credentials.
-6. Add Tasks and Mark Completion
+
+# 6. Add Tasks and Mark Completion
 Once logged in, you can:
 
 Add tasks for the kid to do.
 Mark tasks as completed when finished.
 The app allows you to manage tasks, and track their completion status easily.
 
-License
+# License
 This project is open-source and available under the MIT License.
 
-Acknowledgments
+# Acknowledgments
 Django Framework
 Bootstrap for UI design
 
